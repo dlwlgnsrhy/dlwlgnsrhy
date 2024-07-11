@@ -93,10 +93,9 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://blog.naver.com/dlwlgnsrhy">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white" />&nbsp
   </a>
   <a href="mailto:dlwlgnsrhy@gmail.com">
-    <img
-      src="https://img.shields.io/badge/dlwlgnsrhy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/dlwlgnsrhy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
