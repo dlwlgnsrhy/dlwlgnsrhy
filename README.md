@@ -25,7 +25,7 @@
             <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black"/>
             <img src="https://img.shields.io/badge/send%20email-4285F4?style=for-the-badge&logo=Gmail&logoColor=white"/>
             <img src="https://img.shields.io/badge/PDF-E34F26?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white"/>
-            <img src="https://img.shields.io/badge/DataFaker-FF8C00?style=for-the-badge&logo=datafaker&logoColor=white"/>
+           
             <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=Secure&logoColor=white"/>
             <img src="https://img.shields.io/badge/Lombok-FF4500?style=for-the-badge&logo=lombok&logoColor=white"/>
         </td>
