@@ -47,10 +47,15 @@
     <tr>
         <td>개발도구</td>
         <td>
+            <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Dynamic%20Web%20Project-006400?style=for-the-badge"/>
+            <img src="https://img.shields.io/badge/STS4-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white"/>
             <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white"/>
             <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
             <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
             <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
         </td>
     </tr>
     <tr>
