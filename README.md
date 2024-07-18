@@ -41,7 +41,6 @@
             <img src="https://img.shields.io/badge/PDF-E34F26?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white"/>
             <img src="https://img.shields.io/badge/Security-FF0000?style=for-the-badge&logo=Secure&logoColor=white"/>
             <img src="https://img.shields.io/badge/Lombok-FF4500?style=for-the-badge&logo=lombok&logoColor=white"/>
-            <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"/>
         </td>
     </tr>
     <tr>
@@ -64,6 +63,7 @@
             <img src="https://img.shields.io/badge/Apache Tomcat-D22128?style=for-the-badge&logo=Apache Tomcat&logoColor=white"/>
             <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/> 
             <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/SSH-2F4F4F?style=for-the-badge&logo=SSH&logoColor=white"/>
         </td>
     </tr>
     <tr>
@@ -103,6 +103,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=React&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"/>
 </div>
 
 <br>
