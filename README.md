@@ -107,8 +107,6 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/MSA-FF6F00?style=for-the-badge"/>&nbsp
-  <img src="https://img.shields.io/badge/Elastic%20Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>&nbsp
 </div>
